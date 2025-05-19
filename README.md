@@ -43,7 +43,7 @@ Développer une API REST permettant :
 1. Cloner le projet :
 
 ```bash
-git clone [https://github.com/votre-utilisateur/votre-repo.git](https://github.com/fatimazbouj/express-PostgreSQL.git)
+git clone https://github.com/fatimazbouj/express-PostgreSQL.git
 cd votre-repo
 npm install
 ```
